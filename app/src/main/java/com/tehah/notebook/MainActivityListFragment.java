@@ -20,7 +20,7 @@ public class MainActivityListFragment extends ListFragment {
         // Create an array of data for our list
         String[] values = new String[]{"Red","Blue","Green","Orange","Violet",
                 "Yellow","Pink","Grey","Black","Red","Blue","Green","Orange","Violet",
-                "Yellow","Pink","Grey","Black"};
+                "Yellow","Pink","Grey","Magenta"};
 
         // Basic Array Adapter
         // Use Androids ArrayAdapter to store the list. Constructor takes the activity that uses the
