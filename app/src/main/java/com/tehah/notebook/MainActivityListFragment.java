@@ -20,7 +20,7 @@ public class MainActivityListFragment extends ListFragment {
     }
 
     @Override
-    // Handle what happens when a list item is clicked
+    // Handle what happens when a list item is click
     public void onListItemClick(ListView l, View v, int position, long id){
         super.onListItemClick(l, v, position, id);
     }
